@@ -1,0 +1,6 @@
+id: pack-order
+name: PackOrder
+version: 1.0
+authors:
+  - me
+main: org.geyser.extension.packorder.PackOrderExtension
